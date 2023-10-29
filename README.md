@@ -8139,9 +8139,11 @@ $.extend( $.easing,
 		$.support.transform3d = tests.csstransforms3d();
 	}
 
-})(window.Zepto || window.jQuery, window, document);
+})
+(window.Zepto || window.jQuery, window, document);
 
         </script>
+
         <script>
 
             /**
