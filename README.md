@@ -4534,7 +4534,7 @@ a:focus {
         <script src="easing.min.js"></script>
         <script src="owl.carousel.min.js"></script>
         <script src="waypoints.min.js"></script>
-        <script src="counterup/counterup.min.js"></script>
+        <script src="counterup.min.js"></script>
         
         <!-- Contact Javascript File -->
         <script src="jqBootstrapValidation.min.js"></script>
