@@ -16,7 +16,7 @@
         <!-- CSS Libraries -->
         <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
         <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
-        <link href="flaticon/font/flaticon.css" rel="stylesheet">
+        <link href="flaticon.css" rel="stylesheet">
         <link href="animate.min.css" rel="stylesheet">
         <link href="owl.carousel.min.css" rel="stylesheet">
 
@@ -3957,7 +3957,7 @@ a:focus {
                     <div class="col-lg-4 col-md-12">
                         <div class="logo">
                             <a href="index.html">
-                                 <img src="logo.jpg" alt="Logo"> 
+                                 <img src="./img/logo.jpg" alt="Logo"> 
                             </a>
                         </div>
                     </div>
